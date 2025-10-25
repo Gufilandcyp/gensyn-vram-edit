@@ -6,6 +6,9 @@ Balanced lowering of settings for bottlenecks and system glitches
 ## If you are renting ready nodes like octaspace or similar, you should know that these settings will not work there because their ready systems are different.
 ## These settings are only prepared for those who have the ability to make manual settings on Vast.ai and similar GPU rental sites.
 
+![Image Alt](https://github.com/Gufilandcyp/gensyn-vram-edit/blob/b28833bbc939a96d7d72fb386d61a71f9adb2afd/2025-10-25%2022_56_54-Gensyn%20_%20Testnet%20-%20Opera.png)
+
+
 ---
 
 * **What do these settings do?**
