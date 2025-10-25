@@ -51,11 +51,11 @@ nano rgym_exp/config/rg-swarm.yaml
 nano rgym_exp/config/rg-swarm.yaml
 ```
 * change the settings as follows:
-* `num_generations 2 
-num_train_samples 1
-num_transplant_trees 1 
-data type: bfloat16 
-beam_size 30`
+`num_generations 2`
+`num_train_samples 1`
+`num_transplant_trees 1`
+`data type: bfloat16` 
+`beam_size 30`
 
 `ctrl+ X+ Y and re run`
 ```bash
