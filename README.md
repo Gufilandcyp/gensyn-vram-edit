@@ -17,7 +17,7 @@ Balanced lowering of settings for bottlenecks and system glitches
 
 ## 1.How to start?
 
-* First, if you have a running node, you must stop it. If you are just installing, you can skip step (.....)
+* First, if you have a running node, you must stop it. If you are just installing, you can skip to step (4)
 ## Step 1:
 `To do this, first stop the node with`
 
