@@ -39,7 +39,7 @@ nano rgym_exp/config/rg-swarm.yaml
 
 ---
 
-** Step 3: 
+## Step 3: 
 * If after a while your node still stops and crashes except for a general problem explained by gensyn, then add these settings as well.
 `Stop node`
 ```bash
