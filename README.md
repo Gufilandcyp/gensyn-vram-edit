@@ -32,7 +32,7 @@ nano rgym_exp/config/rg-swarm.yaml
 ![Image Alt](https://github.com/Gufilandcyp/gensyn-vram-edit/blob/75a2359e73bfdd96800edd636c1ae6ded729932f/2025-10-02_13_25_42-.png)
 * dttype: downgrade bfloat32 to bfloat16
 * Save and exit with
-* 
+
 `ctrl x+y enter`
 
 * Restart node
@@ -67,11 +67,11 @@ beam_size 30`
 # Step 4:
 * If you are installing for the first time
 * `git clone https://github.com/gensyn-ai/rl-swarm` After this code you entered when setting up node (dont forget to upload ur swarm pem after git clone)
-* try this
+`try this`
 ```bash
 cd rl-swarm
 ```
-* Then
+`Then`
 ```bash
 sed -i -E "s/(dtype:\s*)'float32'/\1'bfloat16'/" rgym_exp/config/rg-swarm.yaml && grep -nE "dtype:" rgym_exp/config/rg-swarm.yaml
 ```
