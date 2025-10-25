@@ -30,7 +30,7 @@ nano rgym_exp/config/rg-swarm.yaml
 ```
 * Now you'll see this page
 ![Image Alt](https://github.com/Gufilandcyp/gensyn-vram-edit/blob/75a2359e73bfdd96800edd636c1ae6ded729932f/2025-10-02_13_25_42-.png)
-* dttype: downgrade bfloat32 to bfloat16
+* dttype: downgrade float32 to bfloat16
 * Save and exit with
 
 `ctrl x+y enter`
