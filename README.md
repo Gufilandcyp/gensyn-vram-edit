@@ -55,9 +55,9 @@ nano rgym_exp/config/rg-swarm.yaml
 `num_train_samples 1`
 `num_transplant_trees 1`
 `data type: bfloat16` 
-`beam_size 30`
+`beam_size: 30`
 
-`ctrl+ X+ Y and re run`
+`ctrl+x +y enter, and re run`
 ```bash
 ./run_rl_swarm.sh
 ```
@@ -77,6 +77,6 @@ sed -i -E "s/(dtype:\s*)'float32'/\1'bfloat16'/" rgym_exp/config/rg-swarm.yaml &
 ```
 # Now your VRAM settings will change before the node starts and the VRAM load will be reduced.
 
-## Good luck in Swarm!
+## Good luck in Swarm! :honeybee:
 
   
